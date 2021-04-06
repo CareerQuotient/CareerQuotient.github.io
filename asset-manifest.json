@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.886c3b06.chunk.css",
-    "main.js": "/static/js/main.bcaa6d80.chunk.js",
-    "main.js.map": "/static/js/main.bcaa6d80.chunk.js.map",
+    "main.js": "/static/js/main.de2866ef.chunk.js",
+    "main.js.map": "/static/js/main.de2866ef.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.eb57dd4c.js",
     "runtime-main.js.map": "/static/js/runtime-main.eb57dd4c.js.map",
-    "static/js/2.9f4b95ef.chunk.js": "/static/js/2.9f4b95ef.chunk.js",
-    "static/js/2.9f4b95ef.chunk.js.map": "/static/js/2.9f4b95ef.chunk.js.map",
+    "static/js/2.68c92d4e.chunk.js": "/static/js/2.68c92d4e.chunk.js",
+    "static/js/2.68c92d4e.chunk.js.map": "/static/js/2.68c92d4e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.886c3b06.chunk.css.map": "/static/css/main.886c3b06.chunk.css.map",
-    "static/js/2.9f4b95ef.chunk.js.LICENSE.txt": "/static/js/2.9f4b95ef.chunk.js.LICENSE.txt",
+    "static/js/2.68c92d4e.chunk.js.LICENSE.txt": "/static/js/2.68c92d4e.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/static/media/contact-us.37043b64.png",
     "static/media/redo-solid.a5b2707d.svg": "/static/media/redo-solid.a5b2707d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.eb57dd4c.js",
-    "static/js/2.9f4b95ef.chunk.js",
+    "static/js/2.68c92d4e.chunk.js",
     "static/css/main.886c3b06.chunk.css",
-    "static/js/main.bcaa6d80.chunk.js"
+    "static/js/main.de2866ef.chunk.js"
   ]
 }
