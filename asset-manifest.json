@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.c5fc28b1.chunk.css",
-    "main.js": "/static/js/main.723ec87f.chunk.js",
-    "main.js.map": "/static/js/main.723ec87f.chunk.js.map",
+    "main.js": "/static/js/main.38cbaeed.chunk.js",
+    "main.js.map": "/static/js/main.38cbaeed.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.eb57dd4c.js",
     "runtime-main.js.map": "/static/js/runtime-main.eb57dd4c.js.map",
-    "static/js/2.81cfdc79.chunk.js": "/static/js/2.81cfdc79.chunk.js",
-    "static/js/2.81cfdc79.chunk.js.map": "/static/js/2.81cfdc79.chunk.js.map",
+    "static/js/2.5793512d.chunk.js": "/static/js/2.5793512d.chunk.js",
+    "static/js/2.5793512d.chunk.js.map": "/static/js/2.5793512d.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.c5fc28b1.chunk.css.map": "/static/css/main.c5fc28b1.chunk.css.map",
-    "static/js/2.81cfdc79.chunk.js.LICENSE.txt": "/static/js/2.81cfdc79.chunk.js.LICENSE.txt",
+    "static/js/2.5793512d.chunk.js.LICENSE.txt": "/static/js/2.5793512d.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/static/media/contact-us.37043b64.png",
     "static/media/redo-solid.a5b2707d.svg": "/static/media/redo-solid.a5b2707d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.eb57dd4c.js",
-    "static/js/2.81cfdc79.chunk.js",
+    "static/js/2.5793512d.chunk.js",
     "static/css/main.c5fc28b1.chunk.css",
-    "static/js/main.723ec87f.chunk.js"
+    "static/js/main.38cbaeed.chunk.js"
   ]
 }
